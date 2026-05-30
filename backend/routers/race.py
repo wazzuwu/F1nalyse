@@ -589,6 +589,8 @@ def _build_live_season_cache() -> dict:
             ):
                 latest_race_data = {
                     "circuit": race["circuit_key"],
+                    "year": year,
+                    "session": "R",
                     "results": rr["results"],
                     "fastest_lap": rr.get("fastest_lap"),
                     "weather": rr.get("weather"),

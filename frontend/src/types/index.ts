@@ -311,6 +311,8 @@ export interface LiveSeasonResponse {
   nextRace: NextRaceResponse | null;
   latestRace: {
     circuit: string;
+    year: number;
+    session: string;
     results: RaceResult[];
     fastest_lap: { code: string; time: string; lap: number } | null;
     weather: { air_temp: number; track_temp: number; humidity: number } | null;

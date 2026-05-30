@@ -3,9 +3,10 @@ import type { PlotlyData, PlotlyChart as PlotlyChartType } from "../types";
 import Plotly from "plotly.js-dist-min";
 
 // Patch purge to be safe when the DOM node was already removed
-const origPurge = Plotly.purge;
-Plotly.purge = function safePurge(...args: any[]) {
-  try { return origPurge.apply(this, args); } catch { /* DOM already removed */ }
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+const origPurge: (...args: any[]) => void = (Plotly as any).purge;
+(Plotly as any).purge = function safePurge(...args: any[]) {
+  try { return origPurge(...args); } catch { /* DOM already removed */ }
 };
 
 import * as factory from "react-plotly.js/factory";
