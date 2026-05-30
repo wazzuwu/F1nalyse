@@ -6,6 +6,7 @@ Telemetry and standings are in separate modules (telemetry.py, standings_service
 """
 
 import time
+from pathlib import Path
 
 import fastf1
 import pandas as pd
@@ -13,7 +14,13 @@ from fastf1.ergast import Ergast
 
 from backend.config import FASTF1_CACHE_DIR
 
-fastf1.Cache.enable_cache(str(FASTF1_CACHE_DIR))
+
+def _init_cache():
+    Path(FASTF1_CACHE_DIR).mkdir(parents=True, exist_ok=True)
+    fastf1.Cache.enable_cache(str(FASTF1_CACHE_DIR))
+
+
+_init_cache()
 
 SEASONS = list(range(2000, 2027))
 
