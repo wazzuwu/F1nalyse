@@ -21,7 +21,7 @@ import type {
   ConstructorDetailResponse,
 } from "../types";
 
-const API = "/api";
+const API = import.meta.env.VITE_API_URL || "/api";
 
 async function fetchJSON<T>(url: string, init?: RequestInit): Promise<T> {
   const res = await fetch(url, init);
