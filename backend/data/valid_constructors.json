@@ -1,0 +1,1360 @@
+{
+  "ferrari": {
+    "drivers": {
+      "2000": [
+        "MSC",
+        "BAR"
+      ],
+      "2001": [
+        "MSC",
+        "BAR"
+      ],
+      "2002": [
+        "MSC",
+        "BAR"
+      ],
+      "2003": [
+        "MSC",
+        "BAR"
+      ],
+      "2004": [
+        "MSC",
+        "BAR"
+      ],
+      "2005": [
+        "BAR",
+        "MSC"
+      ],
+      "2006": [
+        "MSC",
+        "MAS"
+      ],
+      "2007": [
+        "RAI",
+        "MAS"
+      ],
+      "2008": [
+        "RAI",
+        "MAS"
+      ],
+      "2009": [
+        "FIS",
+        "RAI",
+        "MAS",
+        "BAD"
+      ],
+      "2010": [
+        "ALO",
+        "MAS"
+      ],
+      "2011": [
+        "ALO",
+        "MAS"
+      ],
+      "2012": [
+        "ALO",
+        "MAS"
+      ],
+      "2013": [
+        "ALO",
+        "MAS"
+      ],
+      "2014": [
+        "ALO",
+        "RAI"
+      ],
+      "2015": [
+        "VET",
+        "RAI"
+      ],
+      "2016": [
+        "VET",
+        "RAI"
+      ],
+      "2017": [
+        "VET",
+        "RAI"
+      ],
+      "2018": [
+        "RAI",
+        "VET"
+      ],
+      "2019": [
+        "VET",
+        "LEC"
+      ],
+      "2020": [
+        "LEC",
+        "VET"
+      ],
+      "2021": [
+        "LEC",
+        "SAI"
+      ],
+      "2022": [
+        "LEC",
+        "SAI"
+      ],
+      "2023": [
+        "LEC",
+        "SAI"
+      ],
+      "2024": [
+        "LEC",
+        "SAI"
+      ],
+      "2025": [
+        "LEC",
+        "HAM"
+      ],
+      "2026": [
+        "LEC",
+        "HAM"
+      ]
+    },
+    "full_name": "Ferrari"
+  },
+  "williams": {
+    "drivers": {
+      "2000": [
+        "SCH",
+        "BUT"
+      ],
+      "2001": [
+        "MON",
+        "SCH"
+      ],
+      "2002": [
+        "MON",
+        "SCH"
+      ],
+      "2003": [
+        "MON",
+        "SCH"
+      ],
+      "2004": [
+        "SCH",
+        "MON",
+        "PIZ"
+      ],
+      "2005": [
+        "WEB",
+        "HEI",
+        "PIZ"
+      ],
+      "2006": [
+        "WEB",
+        "ROS"
+      ],
+      "2007": [
+        "ROS",
+        "WUR",
+        "NAK"
+      ],
+      "2008": [
+        "ROS",
+        "NAK"
+      ],
+      "2009": [
+        "ROS",
+        "NAK"
+      ],
+      "2010": [
+        "BAR",
+        "HUL"
+      ],
+      "2011": [
+        "BAR",
+        "MAL"
+      ],
+      "2012": [
+        "MAL",
+        "SEN"
+      ],
+      "2013": [
+        "BOT",
+        "MAL"
+      ],
+      "2014": [
+        "BOT",
+        "MAS"
+      ],
+      "2015": [
+        "MAS",
+        "BOT"
+      ],
+      "2016": [
+        "MAS",
+        "BOT"
+      ],
+      "2017": [
+        "MAS",
+        "STR"
+      ],
+      "2018": [
+        "STR",
+        "SIR"
+      ],
+      "2019": [
+        "RUS",
+        "KUB"
+      ],
+      "2020": [
+        "RUS",
+        "LAT"
+      ],
+      "2021": [
+        "RUS",
+        "LAT"
+      ],
+      "2022": [
+        "ALB",
+        "LAT"
+      ],
+      "2023": [
+        "ALB",
+        "SAR"
+      ],
+      "2024": [
+        "ALB",
+        "SAR",
+        "COL"
+      ],
+      "2025": [
+        "ALB",
+        "SAI"
+      ],
+      "2026": [
+        "ALB",
+        "SAI"
+      ]
+    },
+    "full_name": "Williams"
+  },
+  "bar": {
+    "drivers": {
+      "2000": [
+        "VIL",
+        "ZON"
+      ],
+      "2001": [
+        "VIL"
+      ],
+      "2002": [
+        "VIL"
+      ],
+      "2003": [
+        "VIL",
+        "BUT",
+        "SAT"
+      ],
+      "2004": [
+        "BUT",
+        "SAT"
+      ],
+      "2005": [
+        "BUT",
+        "SAT"
+      ]
+    },
+    "full_name": "BAR"
+  },
+  "benetton": {
+    "drivers": {
+      "2000": [
+        "FIS",
+        "WUR"
+      ],
+      "2001": [
+        "FIS",
+        "BUT"
+      ]
+    },
+    "full_name": "Benetton"
+  },
+  "sauber": {
+    "drivers": {
+      "2000": [
+        NaN
+      ],
+      "2001": [
+        "HEI",
+        "RAI"
+      ],
+      "2002": [
+        "MAS",
+        "HEI"
+      ],
+      "2003": [
+        NaN,
+        "HEI"
+      ],
+      "2004": [
+        "FIS",
+        "MAS"
+      ],
+      "2005": [
+        "MAS",
+        "VIL"
+      ],
+      "2010": [
+        "DLR",
+        "KOB",
+        "HEI"
+      ],
+      "2011": [
+        "KOB",
+        "PER",
+        "DLR"
+      ],
+      "2012": [
+        "KOB",
+        "PER"
+      ],
+      "2013": [
+        "GUT",
+        "HUL"
+      ],
+      "2014": [
+        "SUT",
+        "GUT"
+      ],
+      "2015": [
+        "NAS",
+        "ERI"
+      ],
+      "2016": [
+        "NAS",
+        "ERI"
+      ],
+      "2017": [
+        "GIO",
+        "ERI",
+        "WEH"
+      ],
+      "2018": [
+        "ERI",
+        "LEC"
+      ]
+    },
+    "full_name": "Sauber"
+  },
+  "prost": {
+    "drivers": {
+      "2000": [
+        "HEI"
+      ]
+    },
+    "full_name": "Prost"
+  },
+  "jordan": {
+    "drivers": {
+      "2000": [
+        "TRU"
+      ],
+      "2001": [
+        NaN,
+        "TRU",
+        "ZON"
+      ],
+      "2002": [
+        "SAT",
+        "FIS"
+      ],
+      "2003": [
+        "FIS"
+      ],
+      "2004": [
+        "HEI",
+        "GLO"
+      ],
+      "2005": [
+        "KAR",
+        "TMO"
+      ]
+    },
+    "full_name": "Jordan"
+  },
+  "mclaren": {
+    "drivers": {
+      "2000": [
+        "COU"
+      ],
+      "2001": [
+        "COU"
+      ],
+      "2002": [
+        "RAI",
+        "COU"
+      ],
+      "2003": [
+        "COU",
+        "RAI"
+      ],
+      "2004": [
+        "COU",
+        "RAI"
+      ],
+      "2005": [
+        "MON",
+        "RAI"
+      ],
+      "2006": [
+        "RAI",
+        "MON",
+        "DLR"
+      ],
+      "2007": [
+        "ALO",
+        "HAM"
+      ],
+      "2008": [
+        "HAM",
+        "KOV"
+      ],
+      "2009": [
+        "KOV",
+        "HAM"
+      ],
+      "2010": [
+        "HAM",
+        "BUT"
+      ],
+      "2011": [
+        "HAM",
+        "BUT"
+      ],
+      "2012": [
+        "BUT",
+        "HAM"
+      ],
+      "2013": [
+        "BUT",
+        "PER"
+      ],
+      "2014": [
+        "MAG",
+        "BUT"
+      ],
+      "2015": [
+        "BUT",
+        "MAG",
+        "ALO"
+      ],
+      "2016": [
+        "BUT",
+        "ALO"
+      ],
+      "2017": [
+        "VAN",
+        "ALO"
+      ],
+      "2018": [
+        "ALO",
+        "VAN"
+      ],
+      "2019": [
+        "NOR",
+        "SAI"
+      ],
+      "2020": [
+        "NOR",
+        "SAI"
+      ],
+      "2021": [
+        "RIC",
+        "NOR"
+      ],
+      "2022": [
+        "NOR",
+        "RIC"
+      ],
+      "2023": [
+        "NOR",
+        "PIA"
+      ],
+      "2024": [
+        "NOR",
+        "PIA"
+      ],
+      "2025": [
+        "NOR",
+        "PIA"
+      ],
+      "2026": [
+        "PIA",
+        "NOR"
+      ]
+    },
+    "full_name": "McLaren"
+  },
+  "arrows": {
+    "drivers": {
+      "2000": [
+        "DLR"
+      ]
+    },
+    "full_name": "Arrows"
+  },
+  "minardi": {
+    "drivers": {
+      "2001": [
+        "ALO"
+      ],
+      "2002": [
+        "WEB"
+      ],
+      "2004": [
+        NaN
+      ],
+      "2005": [
+        "FRI",
+        "ALB",
+        "DOO"
+      ]
+    },
+    "full_name": "Minardi"
+  },
+  "jaguar": {
+    "drivers": {
+      "2001": [
+        "DLR"
+      ],
+      "2002": [
+        "DLR"
+      ],
+      "2003": [
+        "PIZ",
+        "WEB"
+      ],
+      "2004": [
+        "KLI",
+        "WEB"
+      ]
+    },
+    "full_name": "Jaguar"
+  },
+  "toyota": {
+    "drivers": {
+      "2002": [
+        NaN
+      ],
+      "2004": [
+        "TRU",
+        "ZON"
+      ],
+      "2005": [
+        "TRU",
+        "SCH"
+      ],
+      "2006": [
+        "SCH",
+        "TRU"
+      ],
+      "2007": [
+        "SCH",
+        "TRU"
+      ],
+      "2008": [
+        "GLO",
+        "TRU"
+      ],
+      "2009": [
+        "TRU",
+        "GLO",
+        "KOB"
+      ]
+    },
+    "full_name": "Toyota"
+  },
+  "renault": {
+    "drivers": {
+      "2002": [
+        "TRU",
+        "BUT"
+      ],
+      "2003": [
+        "TRU",
+        "ALO"
+      ],
+      "2004": [
+        "ALO",
+        "VIL"
+      ],
+      "2005": [
+        "FIS",
+        "ALO"
+      ],
+      "2006": [
+        "ALO",
+        "FIS"
+      ],
+      "2007": [
+        "FIS",
+        "KOV"
+      ],
+      "2008": [
+        "ALO",
+        "PIQ"
+      ],
+      "2009": [
+        "ALO",
+        "PIQ",
+        "GRO"
+      ],
+      "2010": [
+        "KUB",
+        "PET"
+      ],
+      "2011": [
+        "PET",
+        "HEI",
+        "SEN"
+      ],
+      "2016": [
+        "PAL",
+        "MAG"
+      ],
+      "2017": [
+        "SAI",
+        "HUL",
+        "PAL"
+      ],
+      "2018": [
+        "HUL",
+        "SAI"
+      ],
+      "2019": [
+        "HUL",
+        "RIC"
+      ],
+      "2020": [
+        "RIC",
+        "OCO"
+      ]
+    },
+    "full_name": "Renault"
+  },
+  "red_bull": {
+    "drivers": {
+      "2005": [
+        "COU",
+        "KLI",
+        "LIU"
+      ],
+      "2006": [
+        "KLI",
+        "COU",
+        "DOO"
+      ],
+      "2007": [
+        "WEB",
+        "COU"
+      ],
+      "2008": [
+        "COU",
+        "WEB"
+      ],
+      "2009": [
+        "WEB",
+        "VET"
+      ],
+      "2010": [
+        "VET",
+        "WEB"
+      ],
+      "2011": [
+        "VET",
+        "WEB"
+      ],
+      "2012": [
+        "VET",
+        "WEB"
+      ],
+      "2013": [
+        "VET",
+        "WEB"
+      ],
+      "2014": [
+        "VET",
+        "RIC"
+      ],
+      "2015": [
+        "RIC",
+        "KVY"
+      ],
+      "2016": [
+        "RIC",
+        "VER"
+      ],
+      "2017": [
+        "VER",
+        "RIC"
+      ]
+    },
+    "full_name": "Red Bull"
+  },
+  "honda": {
+    "drivers": {
+      "2006": [
+        "BUT",
+        "BAR"
+      ],
+      "2007": [
+        "BAR",
+        "BUT"
+      ],
+      "2008": [
+        "BUT",
+        "BAR"
+      ]
+    },
+    "full_name": "Honda"
+  },
+  "toro_rosso": {
+    "drivers": {
+      "2006": [
+        "LIU",
+        "SPE"
+      ],
+      "2007": [
+        "LIU",
+        "SPE",
+        "VET"
+      ],
+      "2008": [
+        "BOU",
+        "VET"
+      ],
+      "2009": [
+        "BUE",
+        "BOU",
+        "ALG"
+      ],
+      "2010": [
+        "ALG",
+        "BUE"
+      ],
+      "2011": [
+        "BUE",
+        "ALG"
+      ],
+      "2012": [
+        "RIC",
+        "VER"
+      ],
+      "2013": [
+        "VER",
+        "RIC"
+      ],
+      "2014": [
+        "VER",
+        "KVY"
+      ],
+      "2015": [
+        "SAI",
+        "VER"
+      ],
+      "2016": [
+        "SAI",
+        "KVY"
+      ],
+      "2017": [
+        "KVY",
+        "HAR",
+        "GAS"
+      ],
+      "2018": [
+        "HAR",
+        "GAS"
+      ],
+      "2019": [
+        "KVY",
+        "GAS"
+      ]
+    },
+    "full_name": "Toro Rosso"
+  },
+  "bmw_sauber": {
+    "drivers": {
+      "2006": [
+        "HEI",
+        "VIL",
+        "KUB"
+      ],
+      "2007": [
+        "HEI",
+        "KUB"
+      ],
+      "2008": [
+        "HEI",
+        "KUB"
+      ],
+      "2009": [
+        "HEI",
+        "KUB"
+      ]
+    },
+    "full_name": "BMW Sauber"
+  },
+  "spyker_mf1": {
+    "drivers": {
+      "2006": [
+        "TMO",
+        "ALB"
+      ]
+    },
+    "full_name": "Spyker MF1"
+  },
+  "super_aguri": {
+    "drivers": {
+      "2006": [
+        "SAT",
+        "IDE",
+        "FMO",
+        "YAM"
+      ],
+      "2007": [
+        "SAT",
+        "DAV"
+      ],
+      "2008": [
+        "SAT",
+        "DAV"
+      ]
+    },
+    "full_name": "Super Aguri"
+  },
+  "spyker": {
+    "drivers": {
+      "2007": [
+        "SUT",
+        "ALB",
+        "YAM"
+      ]
+    },
+    "full_name": "Spyker"
+  },
+  "force_india": {
+    "drivers": {
+      "2008": [
+        "SUT",
+        "FIS"
+      ],
+      "2009": [
+        "SUT",
+        "LIU"
+      ],
+      "2010": [
+        "LIU",
+        "SUT"
+      ],
+      "2011": [
+        "SUT",
+        "DIR"
+      ],
+      "2012": [
+        "DIR",
+        "HUL"
+      ],
+      "2013": [
+        "SUT",
+        "DIR"
+      ],
+      "2014": [
+        "HUL",
+        "PER"
+      ],
+      "2015": [
+        "HUL",
+        "PER"
+      ],
+      "2016": [
+        "HUL",
+        "PER"
+      ],
+      "2017": [
+        "PER",
+        "OCO"
+      ]
+    },
+    "full_name": "Force India"
+  },
+  "brawn": {
+    "drivers": {
+      "2009": [
+        "BUT",
+        "BAR"
+      ]
+    },
+    "full_name": "Brawn"
+  },
+  "mercedes": {
+    "drivers": {
+      "2010": [
+        "ROS",
+        "MSC"
+      ],
+      "2011": [
+        "ROS",
+        "MSC"
+      ],
+      "2012": [
+        "ROS",
+        "MSC"
+      ],
+      "2013": [
+        "HAM",
+        "ROS"
+      ],
+      "2014": [
+        "ROS",
+        "HAM"
+      ],
+      "2015": [
+        "HAM",
+        "ROS"
+      ],
+      "2016": [
+        "ROS",
+        "HAM"
+      ],
+      "2017": [
+        "HAM",
+        "BOT"
+      ],
+      "2018": [
+        "HAM",
+        "BOT"
+      ],
+      "2019": [
+        "HAM",
+        "BOT"
+      ],
+      "2020": [
+        "BOT",
+        "HAM"
+      ],
+      "2021": [
+        "HAM",
+        "BOT"
+      ],
+      "2022": [
+        "HAM",
+        "RUS"
+      ],
+      "2023": [
+        "RUS",
+        "HAM"
+      ],
+      "2024": [
+        "RUS",
+        "HAM"
+      ],
+      "2025": [
+        "RUS",
+        "ANT"
+      ],
+      "2026": [
+        "RUS",
+        "ANT"
+      ]
+    },
+    "full_name": "Mercedes"
+  },
+  "lotus": {
+    "drivers": {
+      "2010": [
+        "KOV",
+        "TRU"
+      ],
+      "2011": [
+        "TRU",
+        "KOV"
+      ]
+    },
+    "full_name": "Lotus"
+  },
+  "hrt": {
+    "drivers": {
+      "2010": [
+        "SEN",
+        "CHA",
+        "YAM",
+        "KLI"
+      ],
+      "2011": [
+        "LIU",
+        "KAR",
+        "RIC"
+      ],
+      "2012": [
+        "DLR",
+        "KAR"
+      ]
+    },
+    "full_name": "HRT"
+  },
+  "virgin": {
+    "drivers": {
+      "2010": [
+        "GLO",
+        "DIG"
+      ],
+      "2011": [
+        "DAM",
+        "GLO"
+      ]
+    },
+    "full_name": "Virgin"
+  },
+  "lotus_f1": {
+    "drivers": {
+      "2012": [
+        "RAI",
+        "GRO"
+      ],
+      "2013": [
+        "RAI",
+        "GRO",
+        "KOV"
+      ],
+      "2014": [
+        "GRO",
+        "MAL"
+      ],
+      "2015": [
+        "GRO",
+        "MAL"
+      ]
+    },
+    "full_name": "Lotus F1"
+  },
+  "marussia": {
+    "drivers": {
+      "2012": [
+        "GLO",
+        "PIC"
+      ],
+      "2013": [
+        "BIA",
+        "CHI"
+      ],
+      "2014": [
+        "CHI",
+        "BIA"
+      ]
+    },
+    "full_name": "Marussia"
+  },
+  "caterham": {
+    "drivers": {
+      "2012": [
+        "KOV",
+        "PET"
+      ],
+      "2013": [
+        "PIC",
+        "VDG"
+      ],
+      "2014": [
+        "ERI",
+        "KOB",
+        "STE"
+      ]
+    },
+    "full_name": "Caterham"
+  },
+  "manor_marussia": {
+    "drivers": {
+      "2015": [
+        "STE",
+        "MER",
+        "RSS"
+      ],
+      "2016": [
+        "WEH",
+        "HAR",
+        "OCO"
+      ]
+    },
+    "full_name": "Manor Marussia"
+  },
+  "haas_f1_team": {
+    "drivers": {
+      "2016": [
+        "GRO",
+        "GUT"
+      ],
+      "2017": [
+        "MAG",
+        "GRO"
+      ],
+      "2018": [
+        "MAG",
+        "GRO"
+      ],
+      "2019": [
+        "GRO",
+        "MAG"
+      ],
+      "2020": [
+        "GRO",
+        "MAG",
+        "FIT"
+      ],
+      "2021": [
+        "MSC",
+        "MAZ"
+      ],
+      "2022": [
+        "MAG",
+        "MSC"
+      ],
+      "2023": [
+        "HUL",
+        "MAG"
+      ],
+      "2024": [
+        "HUL",
+        "MAG",
+        "BEA"
+      ],
+      "2025": [
+        "OCO",
+        "BEA"
+      ],
+      "2026": [
+        "BEA",
+        "OCO"
+      ]
+    },
+    "full_name": "Haas F1 Team"
+  },
+  "red_bull_racing": {
+    "drivers": {
+      "2018": [
+        "VER",
+        "RIC"
+      ],
+      "2019": [
+        "VER",
+        "ALB"
+      ],
+      "2020": [
+        "VER",
+        "ALB"
+      ],
+      "2021": [
+        "VER",
+        "PER"
+      ],
+      "2022": [
+        "VER",
+        "PER"
+      ],
+      "2023": [
+        "VER",
+        "PER"
+      ],
+      "2024": [
+        "VER",
+        "PER"
+      ],
+      "2025": [
+        "VER",
+        "TSU"
+      ],
+      "2026": [
+        "HAD",
+        "VER"
+      ]
+    },
+    "full_name": "Red Bull Racing"
+  },
+  "racing_point": {
+    "drivers": {
+      "2018": [
+        "PER",
+        "OCO"
+      ],
+      "2019": [
+        "PER",
+        "STR"
+      ],
+      "2020": [
+        "PER",
+        "STR"
+      ]
+    },
+    "full_name": "Racing Point"
+  },
+  "alfa_romeo_racing": {
+    "drivers": {
+      "2019": [
+        "RAI",
+        "GIO"
+      ],
+      "2020": [
+        "GIO",
+        "RAI"
+      ],
+      "2021": [
+        "GIO",
+        "RAI"
+      ]
+    },
+    "full_name": "Alfa Romeo Racing"
+  },
+  "alphatauri": {
+    "drivers": {
+      "2020": [
+        "GAS",
+        "KVY"
+      ],
+      "2021": [
+        "GAS",
+        "TSU"
+      ],
+      "2022": [
+        "GAS",
+        "TSU"
+      ],
+      "2023": [
+        "TSU",
+        "DEV",
+        "LAW",
+        "RIC"
+      ]
+    },
+    "full_name": "AlphaTauri"
+  },
+  "alpine": {
+    "drivers": {
+      "2021": [
+        "ALO",
+        "OCO"
+      ],
+      "2022": [
+        "ALO",
+        "OCO"
+      ],
+      "2023": [
+        "OCO",
+        "GAS"
+      ],
+      "2024": [
+        "OCO",
+        "GAS",
+        "DOO"
+      ],
+      "2025": [
+        "GAS",
+        "DOO",
+        "COL"
+      ],
+      "2026": [
+        "GAS",
+        "COL"
+      ]
+    },
+    "full_name": "Alpine"
+  },
+  "aston_martin": {
+    "drivers": {
+      "2021": [
+        "STR",
+        "VET"
+      ],
+      "2022": [
+        "HUL",
+        "STR",
+        "VET"
+      ],
+      "2023": [
+        "ALO",
+        "STR"
+      ],
+      "2024": [
+        "ALO",
+        "STR"
+      ],
+      "2025": [
+        "ALO",
+        "STR"
+      ],
+      "2026": [
+        "ALO",
+        "STR"
+      ]
+    },
+    "full_name": "Aston Martin"
+  },
+  "alfa_romeo": {
+    "drivers": {
+      "2022": [
+        "BOT",
+        "ZHO"
+      ],
+      "2023": [
+        "BOT",
+        "ZHO"
+      ]
+    },
+    "full_name": "Alfa Romeo"
+  },
+  "rb": {
+    "drivers": {
+      "2024": [
+        "TSU",
+        "RIC",
+        "LAW"
+      ]
+    },
+    "full_name": "RB"
+  },
+  "kick_sauber": {
+    "drivers": {
+      "2024": [
+        "BOT",
+        "ZHO"
+      ],
+      "2025": [
+        "BOR",
+        "HUL"
+      ]
+    },
+    "full_name": "Kick Sauber"
+  },
+  "racing_bulls": {
+    "drivers": {
+      "2025": [
+        "HAD",
+        "LAW"
+      ],
+      "2026": [
+        "LAW",
+        "LIN"
+      ]
+    },
+    "full_name": "Racing Bulls"
+  },
+  "audi": {
+    "drivers": {
+      "2026": [
+        "BOR",
+        "HUL"
+      ]
+    },
+    "full_name": "Audi"
+  },
+  "cadillac": {
+    "drivers": {
+      "2026": [
+        "PER",
+        "BOT"
+      ]
+    },
+    "full_name": "Cadillac"
+  }
+}

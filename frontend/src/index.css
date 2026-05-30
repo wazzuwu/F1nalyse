@@ -1,0 +1,277 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-f1-black: #0a0a0a;
+  --color-f1-red: #e8002d;
+  --color-f1-silver: #c0c0c0;
+  --color-f1-carbon: #1a1a1a;
+  --font-heading: "Inter", sans-serif;
+  --font-body: "Inter", sans-serif;
+}
+
+body {
+  background-color: #0a0a0a;
+  color: #ffffff;
+  font-family: "Inter", sans-serif;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* Scrollbar-none utility */
+.scrollbar-none::-webkit-scrollbar { display: none; }
+.scrollbar-none { -ms-overflow-style: none; scrollbar-width: none; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Bottom ticker */
+.ticker-wrap {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  overflow: hidden;
+  z-index: 50;
+  background: rgba(10, 10, 10, 0.85);
+  backdrop-filter: blur(8px);
+  border-top: 1px solid rgba(232, 0, 45, 0.3);
+  height: 32px;
+  line-height: 32px;
+}
+
+.ticker-marquee {
+  display: inline-block;
+  white-space: nowrap;
+  animation: ticker 40s linear infinite;
+  padding-left: 100%;
+  font-family: "Inter", sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+@keyframes ticker {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #0a0a0a; }
+::-webkit-scrollbar-thumb { background: #e8002d; border-radius: 3px; }
+
+/* Selection */
+::selection { background: rgba(232, 0, 45, 0.3); }
+
+/* Plotly overrides */
+.js-plotly-plot .plotly .main-svg { background: transparent !important; }
+
+/* Hero overlay */
+.hero-overlay-right {
+  background: linear-gradient(90deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.05) 100%);
+}
+.hero-overlay-bottom {
+  background: linear-gradient(0deg, rgba(0,0,0,0.65) 0%, transparent 100%);
+}
+
+:root,
+[data-theme="dark"] {
+  --bg-primary: #0a0a0a;
+  --bg-secondary: #1a1a1a;
+  --accent: #e8002d;
+  --accent-hover: #cc0028;
+  --text-primary: #ffffff;
+  --text-secondary: rgba(255, 255, 255, 0.65);
+  --text-muted: #c0c0c0;
+  --text-dim: rgba(255, 255, 255, 0.3);
+  --border-light: rgba(255, 255, 255, 0.06);
+  --border-medium: rgba(255, 255, 255, 0.1);
+  --surface-overlay: rgba(255, 255, 255, 0.03);
+  --glass-bg: rgba(26, 26, 26, 0.8);
+  --nav-bg: rgba(10, 10, 10, 0.8);
+  --ticker-bg: rgba(10, 10, 10, 0.85);
+  --scrollbar-track: #0a0a0a;
+  --select-bg: rgba(255, 255, 255, 0.05);
+  --card-shadow: none;
+  --card-hover-shadow: none;
+  --chart-grid: rgba(255, 255, 255, 0.06);
+}
+
+[data-theme="light"] {
+  --bg-primary: #f0ede8;
+  --bg-secondary: #ffffff;
+  --accent: #d4002a;
+  --accent-hover: #b80024;
+  --text-primary: #1d1d1f;
+  --text-secondary: rgba(29, 29, 31, 0.55);
+  --text-muted: #8e8e93;
+  --text-dim: rgba(29, 29, 31, 0.2);
+  --border-light: rgba(0, 0, 0, 0.07);
+  --border-medium: rgba(0, 0, 0, 0.12);
+  --surface-overlay: rgba(255, 255, 255, 0.7);
+  --glass-bg: rgba(255, 255, 255, 0.85);
+  --nav-bg: rgba(255, 255, 255, 0.88);
+  --ticker-bg: rgba(240, 237, 232, 0.95);
+  --scrollbar-track: #d1d1d6;
+  --select-bg: rgba(0, 0, 0, 0.04);
+  --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.04), 0 4px 12px rgba(0, 0, 0, 0.04);
+  --card-hover-shadow: 0 2px 8px rgba(0, 0, 0, 0.06), 0 8px 28px rgba(0, 0, 0, 0.06);
+  --chart-grid: rgba(0, 0, 0, 0.08);
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: "Inter", sans-serif;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Scrollbar-none utility */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+/* Bottom ticker */
+.ticker-wrap {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  overflow: hidden;
+  z-index: 50;
+  background: var(--ticker-bg);
+  backdrop-filter: blur(8px);
+  border-top: 1px solid color-mix(in oklab, var(--accent) 30%, transparent);
+  height: 32px;
+  line-height: 32px;
+  transition: background 0.3s ease;
+}
+
+.ticker-marquee {
+  display: inline-block;
+  white-space: nowrap;
+  animation: ticker 40s linear infinite;
+  padding-left: 100%;
+  font-family: "Inter", sans-serif;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  color: var(--text-secondary);
+}
+
+@keyframes ticker {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--scrollbar-track); }
+::-webkit-scrollbar-thumb { background: var(--accent); border-radius: 3px; }
+
+/* Selection */
+::selection { background: color-mix(in oklab, var(--accent) 30%, transparent); }
+
+/* Plotly overrides */
+.js-plotly-plot .plotly .main-svg { background: transparent !important; }
+
+/* Navbar glass effect */
+.navbar-glass {
+  background: var(--nav-bg);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid color-mix(in oklab, var(--accent) 20%, transparent);
+  transition: background 0.3s ease;
+}
+
+/* Glass card utility */
+.glass-card {
+  background: var(--surface-overlay);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--border-light);
+}
+
+/* Card with shadow (light mode) */
+.card-shadow {
+  box-shadow: var(--card-shadow);
+  transition: box-shadow 0.3s ease;
+}
+.card-shadow:hover {
+  box-shadow: var(--card-hover-shadow);
+}
+
+/* Gradient card backgrounds adjusted for light mode */
+[data-theme="light"] .from-f1-carbon {
+  --tw-gradient-from: var(--bg-secondary) var(--tw-gradient-from-position);
+}
+[data-theme="light"] .to-black {
+  --tw-gradient-to: var(--bg-secondary) var(--tw-gradient-to-position);
+}
+[data-theme="light"] .from-f1-carbon.to-black {
+  background: var(--bg-secondary);
+  box-shadow: var(--card-shadow);
+}
+
+/* Select/input background fix for light theme */
+select option, input, textarea {
+  color: var(--text-primary);
+}
+
+[data-theme="light"] select,
+[data-theme="light"] input,
+[data-theme="light"] textarea {
+  background-color: var(--bg-primary);
+}
+
+[data-theme="light"] select option {
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+}
+
+/* Hero overlay — stays dark regardless of theme for image readability */
+.hero-overlay-right {
+  background: linear-gradient(90deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 60%, rgba(0,0,0,0.05) 100%);
+}
+.hero-overlay-bottom {
+  background: linear-gradient(0deg, rgba(0,0,0,0.65) 0%, transparent 100%);
+}
+
+/* Light theme gradient panels -> solid white cards with shadow */
+[data-theme="light"] [class*="from-f1-carbon"][class*="to-black"] {
+  background: var(--bg-secondary) !important;
+  box-shadow: var(--card-shadow);
+}
+
+
+
+/* Light mode backdrop tweaks */
+[data-theme="light"] .backdrop-blur-xl {
+  background: var(--glass-bg);
+}
+
+/* Transition for smooth theme switching */
+*, *::before, *::after {
+  transition: background-color 0.25s ease, border-color 0.25s ease, color 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* Disable transitions on page load */
+.preload * {
+  transition: none !important;
+}

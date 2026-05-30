@@ -1,0 +1,16 @@
+﻿node_modules/
+__pycache__/
+*.pyc
+dist/
+.env
+data/fia_pdfs/
+data/fastf1_cache/
+backend/models/models--*/
+errors.txt
+live season.txt
+results.txt
+telemetry analysis.txt
+docs/footer.txt
+docs/frontend_prompt.txt
+
+backend/models/CACHEDIR.TAG

@@ -1,0 +1,1051 @@
+{
+  "MSC": {
+    "full_name": "Michael Schumacher",
+    "teams": {
+      "2000": "ferrari",
+      "2001": "ferrari",
+      "2002": "ferrari",
+      "2003": "ferrari",
+      "2004": "ferrari",
+      "2005": "ferrari",
+      "2006": "ferrari",
+      "2010": "mercedes",
+      "2011": "mercedes",
+      "2012": "mercedes"
+    }
+  },
+  "BAR": {
+    "full_name": "Rubens Barrichello",
+    "teams": {
+      "2000": "ferrari",
+      "2001": "ferrari",
+      "2002": "ferrari",
+      "2003": "ferrari",
+      "2004": "ferrari",
+      "2005": "ferrari",
+      "2006": "honda",
+      "2007": "honda",
+      "2008": "honda",
+      "2009": "brawn",
+      "2010": "williams",
+      "2011": "williams"
+    }
+  },
+  "SCH": {
+    "full_name": "Ralf Schumacher",
+    "teams": {
+      "2000": "williams",
+      "2001": "williams",
+      "2002": "williams",
+      "2003": "williams",
+      "2004": "williams",
+      "2005": "toyota",
+      "2006": "toyota",
+      "2007": "toyota"
+    }
+  },
+  "VIL": {
+    "full_name": "Jacques Villeneuve",
+    "teams": {
+      "2000": "bar",
+      "2001": "bar",
+      "2002": "bar",
+      "2003": "bar",
+      "2004": "renault",
+      "2005": "sauber",
+      "2006": "bmw_sauber"
+    }
+  },
+  "FIS": {
+    "full_name": "Giancarlo Fisichella",
+    "teams": {
+      "2000": "benetton",
+      "2001": "benetton",
+      "2002": "jordan",
+      "2003": "jordan",
+      "2004": "sauber",
+      "2005": "renault",
+      "2006": "renault",
+      "2007": "renault",
+      "2008": "force_india",
+      "2009": "ferrari"
+    }
+  },
+  "ZON": {
+    "full_name": "Ricardo Zonta",
+    "teams": {
+      "2000": "bar",
+      "2001": "jordan",
+      "2004": "toyota"
+    }
+  },
+  "WUR": {
+    "full_name": "Alexander Wurz",
+    "teams": {
+      "2000": "benetton",
+      "2007": "williams"
+    }
+  },
+  "NaN": {
+    "full_name": "Olivier Panis",
+    "teams": {}
+  },
+  "HEI": {
+    "full_name": "Nick Heidfeld",
+    "teams": {
+      "2000": "prost",
+      "2001": "sauber",
+      "2002": "sauber",
+      "2003": "sauber",
+      "2004": "jordan",
+      "2005": "williams",
+      "2006": "bmw_sauber",
+      "2007": "bmw_sauber",
+      "2008": "bmw_sauber",
+      "2009": "bmw_sauber",
+      "2010": "sauber",
+      "2011": "renault"
+    }
+  },
+  "BUT": {
+    "full_name": "Jenson Button",
+    "teams": {
+      "2000": "williams",
+      "2001": "benetton",
+      "2002": "renault",
+      "2003": "bar",
+      "2004": "bar",
+      "2005": "bar",
+      "2006": "honda",
+      "2007": "honda",
+      "2008": "honda",
+      "2009": "brawn",
+      "2010": "mclaren",
+      "2011": "mclaren",
+      "2012": "mclaren",
+      "2013": "mclaren",
+      "2014": "mclaren",
+      "2015": "mclaren",
+      "2016": "mclaren"
+    }
+  },
+  "TRU": {
+    "full_name": "Jarno Trulli",
+    "teams": {
+      "2000": "jordan",
+      "2001": "jordan",
+      "2002": "renault",
+      "2003": "renault",
+      "2004": "toyota",
+      "2005": "toyota",
+      "2006": "toyota",
+      "2007": "toyota",
+      "2008": "toyota",
+      "2009": "toyota",
+      "2010": "lotus",
+      "2011": "lotus"
+    }
+  },
+  "COU": {
+    "full_name": "David Coulthard",
+    "teams": {
+      "2000": "mclaren",
+      "2001": "mclaren",
+      "2002": "mclaren",
+      "2003": "mclaren",
+      "2004": "mclaren",
+      "2005": "red_bull",
+      "2006": "red_bull",
+      "2007": "red_bull",
+      "2008": "red_bull"
+    }
+  },
+  "DLR": {
+    "full_name": "Pedro de la Rosa",
+    "teams": {
+      "2000": "arrows",
+      "2001": "jaguar",
+      "2002": "jaguar",
+      "2006": "mclaren",
+      "2010": "sauber",
+      "2011": "sauber",
+      "2012": "hrt"
+    }
+  },
+  "RAI": {
+    "full_name": "Kimi Räikkönen",
+    "teams": {
+      "2001": "sauber",
+      "2002": "mclaren",
+      "2003": "mclaren",
+      "2004": "mclaren",
+      "2005": "mclaren",
+      "2006": "mclaren",
+      "2007": "ferrari",
+      "2008": "ferrari",
+      "2009": "ferrari",
+      "2012": "lotus_f1",
+      "2013": "lotus_f1",
+      "2014": "ferrari",
+      "2015": "ferrari",
+      "2016": "ferrari",
+      "2017": "ferrari",
+      "2018": "ferrari",
+      "2019": "alfa_romeo_racing",
+      "2020": "alfa_romeo_racing",
+      "2021": "alfa_romeo_racing"
+    }
+  },
+  "ALO": {
+    "full_name": "Fernando Alonso",
+    "teams": {
+      "2001": "minardi",
+      "2003": "renault",
+      "2004": "renault",
+      "2005": "renault",
+      "2006": "renault",
+      "2007": "mclaren",
+      "2008": "renault",
+      "2009": "renault",
+      "2010": "ferrari",
+      "2011": "ferrari",
+      "2012": "ferrari",
+      "2013": "ferrari",
+      "2014": "ferrari",
+      "2015": "mclaren",
+      "2016": "mclaren",
+      "2017": "mclaren",
+      "2018": "mclaren",
+      "2021": "alpine",
+      "2022": "alpine",
+      "2023": "aston_martin",
+      "2024": "aston_martin",
+      "2025": "aston_martin",
+      "2026": "aston_martin"
+    }
+  },
+  "MON": {
+    "full_name": "Juan Pablo Montoya",
+    "teams": {
+      "2001": "williams",
+      "2002": "williams",
+      "2003": "williams",
+      "2004": "williams",
+      "2005": "mclaren",
+      "2006": "mclaren"
+    }
+  },
+  "WEB": {
+    "full_name": "Mark Webber",
+    "teams": {
+      "2002": "minardi",
+      "2003": "jaguar",
+      "2004": "jaguar",
+      "2005": "williams",
+      "2006": "williams",
+      "2007": "red_bull",
+      "2008": "red_bull",
+      "2009": "red_bull",
+      "2010": "red_bull",
+      "2011": "red_bull",
+      "2012": "red_bull",
+      "2013": "red_bull"
+    }
+  },
+  "SAT": {
+    "full_name": "Takuma Sato",
+    "teams": {
+      "2002": "jordan",
+      "2003": "bar",
+      "2004": "bar",
+      "2005": "bar",
+      "2006": "super_aguri",
+      "2007": "super_aguri",
+      "2008": "super_aguri"
+    }
+  },
+  "MAS": {
+    "full_name": "Felipe Massa",
+    "teams": {
+      "2002": "sauber",
+      "2004": "sauber",
+      "2005": "sauber",
+      "2006": "ferrari",
+      "2007": "ferrari",
+      "2008": "ferrari",
+      "2009": "ferrari",
+      "2010": "ferrari",
+      "2011": "ferrari",
+      "2012": "ferrari",
+      "2013": "ferrari",
+      "2014": "williams",
+      "2015": "williams",
+      "2016": "williams",
+      "2017": "williams"
+    }
+  },
+  "PIZ": {
+    "full_name": "Antônio Pizzonia",
+    "teams": {
+      "2003": "jaguar",
+      "2004": "williams",
+      "2005": "williams"
+    }
+  },
+  "KLI": {
+    "full_name": "Christian Klien",
+    "teams": {
+      "2004": "jaguar",
+      "2005": "red_bull",
+      "2006": "red_bull",
+      "2010": "hrt"
+    }
+  },
+  "GLO": {
+    "full_name": "Timo Glock",
+    "teams": {
+      "2004": "jordan",
+      "2008": "toyota",
+      "2009": "toyota",
+      "2010": "virgin",
+      "2011": "virgin",
+      "2012": "marussia"
+    }
+  },
+  "KAR": {
+    "full_name": "Narain Karthikeyan",
+    "teams": {
+      "2005": "jordan",
+      "2011": "hrt",
+      "2012": "hrt"
+    }
+  },
+  "TMO": {
+    "full_name": "Tiago Monteiro",
+    "teams": {
+      "2005": "jordan",
+      "2006": "spyker_mf1"
+    }
+  },
+  "FRI": {
+    "full_name": "Patrick Friesacher",
+    "teams": {
+      "2005": "minardi"
+    }
+  },
+  "ALB": {
+    "full_name": "Alexander Albon",
+    "teams": {
+      "2019": "red_bull_racing",
+      "2020": "red_bull_racing",
+      "2022": "williams",
+      "2023": "williams",
+      "2024": "williams",
+      "2025": "williams",
+      "2026": "williams"
+    }
+  },
+  "LIU": {
+    "full_name": "Vitantonio Liuzzi",
+    "teams": {
+      "2005": "red_bull",
+      "2006": "toro_rosso",
+      "2007": "toro_rosso",
+      "2009": "force_india",
+      "2010": "force_india",
+      "2011": "hrt"
+    }
+  },
+  "DOO": {
+    "full_name": "Robert Doornbos",
+    "teams": {
+      "2005": "minardi",
+      "2006": "red_bull"
+    }
+  },
+  "ROS": {
+    "full_name": "Nico Rosberg",
+    "teams": {
+      "2006": "williams",
+      "2007": "williams",
+      "2008": "williams",
+      "2009": "williams",
+      "2010": "mercedes",
+      "2011": "mercedes",
+      "2012": "mercedes",
+      "2013": "mercedes",
+      "2014": "mercedes",
+      "2015": "mercedes",
+      "2016": "mercedes"
+    }
+  },
+  "SPE": {
+    "full_name": "Scott Speed",
+    "teams": {
+      "2006": "toro_rosso",
+      "2007": "toro_rosso"
+    }
+  },
+  "IDE": {
+    "full_name": "Yuji Ide",
+    "teams": {
+      "2006": "super_aguri"
+    }
+  },
+  "FMO": {
+    "full_name": "Franck Montagny",
+    "teams": {
+      "2006": "super_aguri"
+    }
+  },
+  "YAM": {
+    "full_name": "Sakon Yamamoto",
+    "teams": {
+      "2006": "super_aguri",
+      "2007": "spyker",
+      "2010": "hrt"
+    }
+  },
+  "KUB": {
+    "full_name": "Robert Kubica",
+    "teams": {
+      "2006": "bmw_sauber",
+      "2007": "bmw_sauber",
+      "2008": "bmw_sauber",
+      "2009": "bmw_sauber",
+      "2010": "renault",
+      "2019": "williams"
+    }
+  },
+  "HAM": {
+    "full_name": "Lewis Hamilton",
+    "teams": {
+      "2007": "mclaren",
+      "2008": "mclaren",
+      "2009": "mclaren",
+      "2010": "mclaren",
+      "2011": "mclaren",
+      "2012": "mclaren",
+      "2013": "mercedes",
+      "2014": "mercedes",
+      "2015": "mercedes",
+      "2016": "mercedes",
+      "2017": "mercedes",
+      "2018": "mercedes",
+      "2019": "mercedes",
+      "2020": "mercedes",
+      "2021": "mercedes",
+      "2022": "mercedes",
+      "2023": "mercedes",
+      "2024": "mercedes",
+      "2025": "ferrari",
+      "2026": "ferrari"
+    }
+  },
+  "KOV": {
+    "full_name": "Heikki Kovalainen",
+    "teams": {
+      "2007": "renault",
+      "2008": "mclaren",
+      "2009": "mclaren",
+      "2010": "lotus",
+      "2011": "lotus",
+      "2012": "caterham",
+      "2013": "lotus_f1"
+    }
+  },
+  "DAV": {
+    "full_name": "Anthony Davidson",
+    "teams": {
+      "2007": "super_aguri",
+      "2008": "super_aguri"
+    }
+  },
+  "SUT": {
+    "full_name": "Adrian Sutil",
+    "teams": {
+      "2007": "spyker",
+      "2008": "force_india",
+      "2009": "force_india",
+      "2010": "force_india",
+      "2011": "force_india",
+      "2013": "force_india",
+      "2014": "sauber"
+    }
+  },
+  "VET": {
+    "full_name": "Sebastian Vettel",
+    "teams": {
+      "2007": "toro_rosso",
+      "2008": "toro_rosso",
+      "2009": "red_bull",
+      "2010": "red_bull",
+      "2011": "red_bull",
+      "2012": "red_bull",
+      "2013": "red_bull",
+      "2014": "red_bull",
+      "2015": "ferrari",
+      "2016": "ferrari",
+      "2017": "ferrari",
+      "2018": "ferrari",
+      "2019": "ferrari",
+      "2020": "ferrari",
+      "2021": "aston_martin",
+      "2022": "aston_martin"
+    }
+  },
+  "NAK": {
+    "full_name": "Kazuki Nakajima",
+    "teams": {
+      "2007": "williams",
+      "2008": "williams",
+      "2009": "williams"
+    }
+  },
+  "BOU": {
+    "full_name": "Sébastien Bourdais",
+    "teams": {
+      "2008": "toro_rosso",
+      "2009": "toro_rosso"
+    }
+  },
+  "PIQ": {
+    "full_name": "Nelson Piquet Jr.",
+    "teams": {
+      "2008": "renault",
+      "2009": "renault"
+    }
+  },
+  "BUE": {
+    "full_name": "Sébastien Buemi",
+    "teams": {
+      "2009": "toro_rosso",
+      "2010": "toro_rosso",
+      "2011": "toro_rosso"
+    }
+  },
+  "BAD": {
+    "full_name": "Luca Badoer",
+    "teams": {
+      "2009": "ferrari"
+    }
+  },
+  "GRO": {
+    "full_name": "Romain Grosjean",
+    "teams": {
+      "2009": "renault",
+      "2012": "lotus_f1",
+      "2013": "lotus_f1",
+      "2014": "lotus_f1",
+      "2015": "lotus_f1",
+      "2016": "haas_f1_team",
+      "2017": "haas_f1_team",
+      "2018": "haas_f1_team",
+      "2019": "haas_f1_team",
+      "2020": "haas_f1_team"
+    }
+  },
+  "ALG": {
+    "full_name": "Jaime Alguersuari",
+    "teams": {
+      "2009": "toro_rosso",
+      "2010": "toro_rosso",
+      "2011": "toro_rosso"
+    }
+  },
+  "KOB": {
+    "full_name": "Kamui Kobayashi",
+    "teams": {
+      "2009": "toyota",
+      "2010": "sauber",
+      "2011": "sauber",
+      "2012": "sauber",
+      "2014": "caterham"
+    }
+  },
+  "HUL": {
+    "full_name": "Nico Hülkenberg",
+    "teams": {
+      "2010": "williams",
+      "2012": "force_india",
+      "2013": "sauber",
+      "2014": "force_india",
+      "2015": "force_india",
+      "2016": "force_india",
+      "2017": "renault"
+    }
+  },
+  "SEN": {
+    "full_name": "Bruno Senna",
+    "teams": {
+      "2010": "hrt",
+      "2011": "renault",
+      "2012": "williams"
+    }
+  },
+  "PET": {
+    "full_name": "Vitaly Petrov",
+    "teams": {
+      "2010": "renault",
+      "2011": "renault",
+      "2012": "caterham"
+    }
+  },
+  "DIG": {
+    "full_name": "Lucas di Grassi",
+    "teams": {
+      "2010": "virgin"
+    }
+  },
+  "CHA": {
+    "full_name": "Karun Chandhok",
+    "teams": {
+      "2010": "hrt"
+    }
+  },
+  "DIR": {
+    "full_name": "Paul di Resta",
+    "teams": {
+      "2011": "force_india",
+      "2012": "force_india",
+      "2013": "force_india"
+    }
+  },
+  "DAM": {
+    "full_name": "Jérôme d'Ambrosio",
+    "teams": {
+      "2011": "virgin"
+    }
+  },
+  "MAL": {
+    "full_name": "Pastor Maldonado",
+    "teams": {
+      "2011": "williams",
+      "2012": "williams",
+      "2013": "williams",
+      "2014": "lotus_f1",
+      "2015": "lotus_f1"
+    }
+  },
+  "PER": {
+    "full_name": "Sergio Perez",
+    "teams": {
+      "2018": "racing_point",
+      "2019": "racing_point",
+      "2020": "racing_point",
+      "2021": "red_bull_racing",
+      "2022": "red_bull_racing",
+      "2023": "red_bull_racing",
+      "2024": "red_bull_racing",
+      "2026": "cadillac"
+    }
+  },
+  "RIC": {
+    "full_name": "Daniel Ricciardo",
+    "teams": {
+      "2011": "hrt",
+      "2012": "toro_rosso",
+      "2013": "toro_rosso",
+      "2014": "red_bull",
+      "2015": "red_bull",
+      "2016": "red_bull",
+      "2017": "red_bull",
+      "2018": "red_bull_racing",
+      "2019": "renault",
+      "2020": "renault",
+      "2021": "mclaren",
+      "2022": "mclaren",
+      "2023": "alphatauri",
+      "2024": "rb"
+    }
+  },
+  "VER": {
+    "full_name": "Max Verstappen",
+    "teams": {
+      "2015": "toro_rosso",
+      "2016": "red_bull",
+      "2017": "red_bull",
+      "2018": "red_bull_racing",
+      "2019": "red_bull_racing",
+      "2020": "red_bull_racing",
+      "2021": "red_bull_racing",
+      "2022": "red_bull_racing",
+      "2023": "red_bull_racing",
+      "2024": "red_bull_racing",
+      "2025": "red_bull_racing",
+      "2026": "red_bull_racing"
+    }
+  },
+  "PIC": {
+    "full_name": "Charles Pic",
+    "teams": {
+      "2012": "marussia",
+      "2013": "caterham"
+    }
+  },
+  "GUT": {
+    "full_name": "Esteban Gutiérrez",
+    "teams": {
+      "2013": "sauber",
+      "2014": "sauber",
+      "2016": "haas_f1_team"
+    }
+  },
+  "BOT": {
+    "full_name": "Valtteri Bottas",
+    "teams": {
+      "2013": "williams",
+      "2014": "williams",
+      "2015": "williams",
+      "2016": "williams",
+      "2017": "mercedes",
+      "2018": "mercedes",
+      "2019": "mercedes",
+      "2020": "mercedes",
+      "2021": "mercedes",
+      "2022": "alfa_romeo",
+      "2023": "alfa_romeo",
+      "2024": "kick_sauber",
+      "2026": "cadillac"
+    }
+  },
+  "BIA": {
+    "full_name": "Jules Bianchi",
+    "teams": {
+      "2013": "marussia",
+      "2014": "marussia"
+    }
+  },
+  "CHI": {
+    "full_name": "Max Chilton",
+    "teams": {
+      "2013": "marussia",
+      "2014": "marussia"
+    }
+  },
+  "VDG": {
+    "full_name": "Giedo van der Garde",
+    "teams": {
+      "2013": "caterham"
+    }
+  },
+  "MAG": {
+    "full_name": "Kevin Magnussen",
+    "teams": {
+      "2014": "mclaren",
+      "2015": "mclaren",
+      "2016": "renault",
+      "2017": "haas_f1_team",
+      "2018": "haas_f1_team",
+      "2019": "haas_f1_team",
+      "2020": "haas_f1_team",
+      "2022": "haas_f1_team",
+      "2023": "haas_f1_team",
+      "2024": "haas_f1_team"
+    }
+  },
+  "KVY": {
+    "full_name": "Daniil Kvyat",
+    "teams": {
+      "2014": "toro_rosso",
+      "2015": "red_bull",
+      "2016": "toro_rosso",
+      "2017": "toro_rosso",
+      "2019": "toro_rosso",
+      "2020": "alphatauri"
+    }
+  },
+  "ERI": {
+    "full_name": "Marcus Ericsson",
+    "teams": {
+      "2014": "caterham",
+      "2015": "sauber",
+      "2016": "sauber",
+      "2017": "sauber",
+      "2018": "sauber"
+    }
+  },
+  "STE": {
+    "full_name": "Will Stevens",
+    "teams": {
+      "2014": "caterham",
+      "2015": "manor_marussia"
+    }
+  },
+  "NAS": {
+    "full_name": "Felipe Nasr",
+    "teams": {
+      "2015": "sauber",
+      "2016": "sauber"
+    }
+  },
+  "SAI": {
+    "full_name": "Carlos Sainz",
+    "teams": {
+      "2015": "toro_rosso",
+      "2016": "toro_rosso",
+      "2017": "renault",
+      "2018": "renault",
+      "2019": "mclaren",
+      "2020": "mclaren",
+      "2021": "ferrari",
+      "2022": "ferrari",
+      "2023": "ferrari",
+      "2024": "ferrari",
+      "2025": "williams",
+      "2026": "williams"
+    }
+  },
+  "MER": {
+    "full_name": "Roberto Merhi",
+    "teams": {
+      "2015": "manor_marussia"
+    }
+  },
+  "RSS": {
+    "full_name": "Alexander Rossi",
+    "teams": {
+      "2015": "manor_marussia"
+    }
+  },
+  "PAL": {
+    "full_name": "Jolyon Palmer",
+    "teams": {
+      "2016": "renault",
+      "2017": "renault"
+    }
+  },
+  "WEH": {
+    "full_name": "Pascal Wehrlein",
+    "teams": {
+      "2016": "manor_marussia",
+      "2017": "sauber"
+    }
+  },
+  "HAR": {
+    "full_name": "Brendon Hartley",
+    "teams": {
+      "2017": "toro_rosso",
+      "2018": "toro_rosso"
+    }
+  },
+  "OCO": {
+    "full_name": "Esteban Ocon",
+    "teams": {
+      "2016": "manor_marussia",
+      "2017": "force_india",
+      "2018": "racing_point",
+      "2020": "renault",
+      "2021": "alpine",
+      "2022": "alpine",
+      "2023": "alpine",
+      "2024": "alpine",
+      "2025": "haas_f1_team",
+      "2026": "haas_f1_team"
+    }
+  },
+  "GIO": {
+    "full_name": "Antonio Giovinazzi",
+    "teams": {
+      "2017": "sauber",
+      "2019": "alfa_romeo_racing",
+      "2020": "alfa_romeo_racing",
+      "2021": "alfa_romeo_racing"
+    }
+  },
+  "VAN": {
+    "full_name": "Stoffel Vandoorne",
+    "teams": {
+      "2017": "mclaren",
+      "2018": "mclaren"
+    }
+  },
+  "STR": {
+    "full_name": "Lance Stroll",
+    "teams": {
+      "2017": "williams",
+      "2018": "williams",
+      "2019": "racing_point",
+      "2020": "racing_point",
+      "2021": "aston_martin",
+      "2022": "aston_martin",
+      "2023": "aston_martin",
+      "2024": "aston_martin",
+      "2025": "aston_martin",
+      "2026": "aston_martin"
+    }
+  },
+  "GAS": {
+    "full_name": "Pierre Gasly",
+    "teams": {
+      "2017": "toro_rosso",
+      "2018": "toro_rosso",
+      "2019": "toro_rosso",
+      "2020": "alphatauri",
+      "2021": "alphatauri",
+      "2022": "alphatauri",
+      "2023": "alpine",
+      "2024": "alpine",
+      "2025": "alpine",
+      "2026": "alpine"
+    }
+  },
+  "LEC": {
+    "full_name": "Charles Leclerc",
+    "teams": {
+      "2018": "sauber",
+      "2019": "ferrari",
+      "2020": "ferrari",
+      "2021": "ferrari",
+      "2022": "ferrari",
+      "2023": "ferrari",
+      "2024": "ferrari",
+      "2025": "ferrari",
+      "2026": "ferrari"
+    }
+  },
+  "SIR": {
+    "full_name": "Sergey Sirotkin",
+    "teams": {
+      "2018": "williams"
+    }
+  },
+  "NOR": {
+    "full_name": "Lando Norris",
+    "teams": {
+      "2019": "mclaren",
+      "2020": "mclaren",
+      "2021": "mclaren",
+      "2022": "mclaren",
+      "2023": "mclaren",
+      "2024": "mclaren",
+      "2025": "mclaren",
+      "2026": "mclaren"
+    }
+  },
+  "RUS": {
+    "full_name": "George Russell",
+    "teams": {
+      "2019": "williams",
+      "2020": "williams",
+      "2021": "williams",
+      "2022": "mercedes",
+      "2023": "mercedes",
+      "2024": "mercedes",
+      "2025": "mercedes",
+      "2026": "mercedes"
+    }
+  },
+  "LAT": {
+    "full_name": "Nicholas Latifi",
+    "teams": {
+      "2020": "williams",
+      "2021": "williams",
+      "2022": "williams"
+    }
+  },
+  "FIT": {
+    "full_name": "Pietro Fittipaldi",
+    "teams": {
+      "2020": "haas_f1_team"
+    }
+  },
+  "TSU": {
+    "full_name": "Yuki Tsunoda",
+    "teams": {
+      "2021": "alphatauri",
+      "2022": "alphatauri",
+      "2023": "alphatauri",
+      "2024": "rb",
+      "2025": "red_bull_racing"
+    }
+  },
+  "MAZ": {
+    "full_name": "Nikita Mazepin",
+    "teams": {
+      "2021": "haas_f1_team"
+    }
+  },
+  "ZHO": {
+    "full_name": "Guanyu Zhou",
+    "teams": {
+      "2022": "alfa_romeo",
+      "2023": "alfa_romeo",
+      "2024": "kick_sauber"
+    }
+  },
+  "SAR": {
+    "full_name": "Logan Sargeant",
+    "teams": {
+      "2023": "williams",
+      "2024": "williams"
+    }
+  },
+  "PIA": {
+    "full_name": "Oscar Piastri",
+    "teams": {
+      "2023": "mclaren",
+      "2024": "mclaren",
+      "2025": "mclaren",
+      "2026": "mclaren"
+    }
+  },
+  "DEV": {
+    "full_name": "Nyck De Vries",
+    "teams": {
+      "2023": "alphatauri"
+    }
+  },
+  "LAW": {
+    "full_name": "Liam Lawson",
+    "teams": {
+      "2023": "alphatauri",
+      "2024": "rb",
+      "2025": "racing_bulls",
+      "2026": "racing_bulls"
+    }
+  },
+  "COL": {
+    "full_name": "Franco Colapinto",
+    "teams": {
+      "2024": "williams",
+      "2025": "alpine",
+      "2026": "alpine"
+    }
+  },
+  "BEA": {
+    "full_name": "Oliver Bearman",
+    "teams": {
+      "2024": "haas_f1_team",
+      "2025": "haas_f1_team",
+      "2026": "haas_f1_team"
+    }
+  },
+  "HAD": {
+    "full_name": "Isack Hadjar",
+    "teams": {
+      "2025": "racing_bulls",
+      "2026": "red_bull_racing"
+    }
+  },
+  "BOR": {
+    "full_name": "Gabriel Bortoleto",
+    "teams": {
+      "2025": "kick_sauber",
+      "2026": "audi"
+    }
+  },
+  "ANT": {
+    "full_name": "Andrea Kimi Antonelli",
+    "teams": {
+      "2025": "mercedes",
+      "2026": "mercedes"
+    }
+  },
+  "LIN": {
+    "full_name": "Arvid Lindblad",
+    "teams": {
+      "2026": "racing_bulls"
+    }
+  }
+}
