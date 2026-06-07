@@ -7,12 +7,12 @@ export default defineConfig({
     include: ["react-plotly.js"],
   },
   server: {
-    allowedHosts: ["f1nalyse-backend.up.railway.app"],
+    allowedHosts: ["f1nalyse.up.railway.app"],
     proxy: {
       "/api": "http://localhost:8000",
     },
   },
   preview: {
-    allowedHosts: ["f1nalyse-backend.up.railway.app"],
+    allowedHosts: ["f1nalyse.up.railway.app"],
   },
 });
