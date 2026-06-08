@@ -229,7 +229,7 @@ export default function LiveSeason() {
     setError("");
 
     try {
-      const data = await getLiveSeason();
+      const data = await getLiveSeason(isRefresh);
       setDataYear(data.year);
       setAllDriverStandings(data.driverStandings);
       setDriverStandings(data.driverStandings.slice(0, 10));

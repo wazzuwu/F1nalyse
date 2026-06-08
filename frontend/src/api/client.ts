@@ -222,8 +222,8 @@ export function getNextRace(): Promise<NextRaceResponse> {
 }
 
 // --- Live Season (cached bundle) ---
-export function getLiveSeason(): Promise<LiveSeasonResponse> {
-  return fetchJSON<LiveSeasonResponse>(`${API}/race/live-season`);
+export function getLiveSeason(force = false): Promise<LiveSeasonResponse> {
+  return fetchJSON<LiveSeasonResponse>(`${API}/race/live-season${force ? "?force=true" : ""}`);
 }
 
 // --- Query ---

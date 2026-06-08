@@ -621,11 +621,11 @@ async def _refresh_cache():
 
 
 @router.get("/live-season")
-async def live_season():
+async def live_season(force: bool = Query(False)):
     now = datetime.now(timezone.utc)
 
     # Try to serve from cache
-    if _LIVE_CACHE_PATH.exists():
+    if not force and _LIVE_CACHE_PATH.exists():
         try:
             raw = _LIVE_CACHE_PATH.read_text(encoding="utf-8")
             cached = json.loads(raw)
@@ -641,7 +641,7 @@ async def live_season():
         except Exception:
             pass  # Corrupt cache — rebuild
 
-    # No cache or corrupt — build fresh
+    # No cache, corrupt, or force — build fresh
     data = await asyncio.to_thread(_build_live_season_cache)
     try:
         _LIVE_CACHE_PATH.write_text(json.dumps(data, indent=2, default=str), encoding="utf-8")
