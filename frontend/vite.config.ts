@@ -13,6 +13,6 @@ export default defineConfig({
     },
   },
   preview: {
-    allowedHosts: ["f1nalyse.up.railway.app"],
+    allowedHosts: ["f1-nalyse.up.railway.app"],
   },
 });
